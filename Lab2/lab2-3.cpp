@@ -9,9 +9,7 @@ int main()
     int n;
     explode("I/Love/You", '/', out, &n);
     for (int i = 0; i < n; i++)
-    {
         printf("str2[%d] = %s \n", i, out[i]);
-    } // end for
     printf("count = %d", n);
     return 0;
 } // end function
