@@ -18,8 +18,8 @@ void reverse(char str1[], char str2[])
     for (int i = 0; i < len1; i++)
     {
         str2[len1 - 1 - i] = str1[i];
-    }
+    } // end for
 
     str2[len1] = '\0';
 
-}
+} // end function

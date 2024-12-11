@@ -27,4 +27,4 @@ int *GetMatrix(int *row, int *col)
         for (int j = 0; j < *col; j++)
             scanf("%d", &d[i * *col + j]); // เก็บค่า
     return d;
-}
+}  // end function
