@@ -1,9 +1,84 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="62dxivXkLxbeIxKJXBwT">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="c8ithLlGlx0I1xOk6380-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8ithLlGlx0I1xOk6380-1" target="c8ithLlGlx0I1xOk6380-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-1" value="เริ่มต้น" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8ithLlGlx0I1xOk6380-2" target="c8ithLlGlx0I1xOk6380-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-2" value="สร้างตัวแปร a = 10, b = 20, c = 30, d = 40" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="240" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8ithLlGlx0I1xOk6380-4" target="c8ithLlGlx0I1xOk6380-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-4" value="แสดงข้อความ&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;This is ตัวแปร a + ตัวแปร b = ตัวแปร a = ตัวแปร b &quot;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="175" y="230" width="430" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8ithLlGlx0I1xOk6380-6" target="c8ithLlGlx0I1xOk6380-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-6" value="สร้างตัวแปร i = 0 มาเพื่อวนรอบ" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="240" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8ithLlGlx0I1xOk6380-9" target="c8ithLlGlx0I1xOk6380-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-9" value="ตัวแปร i &amp;lt; d - 30 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="305" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8ithLlGlx0I1xOk6380-11" target="c8ithLlGlx0I1xOk6380-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-11" value="ตัวแปร i &amp;lt; 30 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8ithLlGlx0I1xOk6380-13" target="c8ithLlGlx0I1xOk6380-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-13" value="แสดงข้อความ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;Here &quot;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="290" y="640" width="190" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8ithLlGlx0I1xOk6380-14" target="c8ithLlGlx0I1xOk6380-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-14" value="ตัวแปร i = 8 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="720" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8ithLlGlx0I1xOk6380-15" target="c8ithLlGlx0I1xOk6380-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-15" value="แสดงข้อความ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;This is 8. &quot;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="280" y="850" width="190" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8ithLlGlx0I1xOk6380-19" target="c8ithLlGlx0I1xOk6380-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="350" y="940" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8ithLlGlx0I1xOk6380-20" target="c8ithLlGlx0I1xOk6380-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-20" value="แสดงข้อความ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;ok&quot;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1010" width="190" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c8ithLlGlx0I1xOk6380-21" target="c8ithLlGlx0I1xOk6380-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c8ithLlGlx0I1xOk6380-22" value="สิ้นสุด" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1180" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
