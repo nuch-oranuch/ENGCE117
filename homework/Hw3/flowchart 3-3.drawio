@@ -247,56 +247,68 @@
         <mxCell id="CFk_xsP78PV8OFuylaRM-90" value="&lt;div&gt;ขึ้นบรรทัดใหม่ แสดงข้อความ&lt;/div&gt;&lt;div&gt;&quot;Matrix1 and Matrix2 connot multiply&quot;&lt;/div&gt;&lt;div&gt;และขึ้นบรรทัดใหม่อีกครั้ง&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="1120" y="2200" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CFk_xsP78PV8OFuylaRM-91" value="กำหนดให้ค่า rows3 = cols1&lt;div&gt;cols3 = rows1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CFk_xsP78PV8OFuylaRM-91" value="กำหนดให้ค่า rows4 = rows1&lt;div&gt;cols4 = cols2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1490" y="2200" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CFk_xsP78PV8OFuylaRM-92" value="i &amp;lt; rows3 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="CFk_xsP78PV8OFuylaRM-92" value="i &amp;lt; rows4 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1500" y="2360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CFk_xsP78PV8OFuylaRM-93" value="กำหนดค่า i = 0" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1490" y="2280" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CFk_xsP78PV8OFuylaRM-94" value="j &amp;lt; cols3 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="CFk_xsP78PV8OFuylaRM-94" value="j &amp;lt; cols4 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1500" y="2520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CFk_xsP78PV8OFuylaRM-95" value="กำหนดค่า j = 0" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1490" y="2440" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CFk_xsP78PV8OFuylaRM-96" value="ให้ j บวก 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="2730" width="180" height="40" as="geometry" />
+          <mxGeometry x="1490" y="3040" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CFk_xsP78PV8OFuylaRM-97" value="ให้ i บวก 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="2820" width="180" height="40" as="geometry" />
+          <mxGeometry x="1490" y="3120" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CFk_xsP78PV8OFuylaRM-98" value="กำหนดให้เก็บค่าในอาเรย์&lt;div&gt;Matrix1[ตำแหน่ง i ตำแหน่ง j]&lt;br&gt;&lt;div&gt;ไว้ในMatrix3[ตำแหน่ง i ตำแหน่ง j]&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="2600" width="180" height="80" as="geometry" />
+        <mxCell id="CFk_xsP78PV8OFuylaRM-98" value="กำหนดให้ค่าในอาเรย์&lt;div&gt;Matrix4[ตำแหน่ง i ตำแหน่ง j] = 0&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="2600" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CFk_xsP78PV8OFuylaRM-99" value="&lt;div&gt;ขึ้นบรรทัดใหม่ แสดงข้อความ&lt;/div&gt;&lt;div&gt;&quot;Transpose of Matrix1 is :&amp;nbsp;&quot;&lt;/div&gt;&lt;div&gt;และขึ้นบรรทัดใหม่อีกครั้ง&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="2920" width="200" height="80" as="geometry" />
+        <mxCell id="CFk_xsP78PV8OFuylaRM-99" value="&lt;div&gt;ขึ้นบรรทัดใหม่ แสดงข้อความ&lt;/div&gt;&lt;div&gt;&quot;Matrix1 x Matrix2 is :&amp;nbsp;&quot;&lt;/div&gt;&lt;div&gt;และขึ้นบรรทัดใหม่อีกครั้ง&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="3200" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CFk_xsP78PV8OFuylaRM-100" value="i &amp;lt; rows3 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="3120" width="120" height="40" as="geometry" />
+        <mxCell id="CFk_xsP78PV8OFuylaRM-100" value="i &amp;lt; rows4 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="3400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CFk_xsP78PV8OFuylaRM-101" value="กำหนดค่า i = 0" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="3040" width="180" height="40" as="geometry" />
+          <mxGeometry x="1480" y="3320" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CFk_xsP78PV8OFuylaRM-102" value="j &amp;lt; cols3 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="3280" width="120" height="40" as="geometry" />
+        <mxCell id="CFk_xsP78PV8OFuylaRM-102" value="j &amp;lt; cols4 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="3560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CFk_xsP78PV8OFuylaRM-103" value="กำหนดค่า j = 0" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="3200" width="180" height="40" as="geometry" />
+          <mxGeometry x="1480" y="3480" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CFk_xsP78PV8OFuylaRM-104" value="&lt;div&gt;แสดงผลค่าที่อยู่ในตัวแปร&lt;/div&gt;&lt;div&gt;Matrix3[ตำแหน่งที่่ i ตำแหน่งที่ j]&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="3360" width="280" height="40" as="geometry" />
+        <mxCell id="CFk_xsP78PV8OFuylaRM-104" value="&lt;div&gt;แสดงผลค่าที่อยู่ในตัวแปร&lt;/div&gt;&lt;div&gt;Matrix4[ตำแหน่งที่่ i ตำแหน่งที่ j]&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="3640" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CFk_xsP78PV8OFuylaRM-105" value="ให้ j บวก 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="3440" width="180" height="40" as="geometry" />
+          <mxGeometry x="1450" y="3720" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CFk_xsP78PV8OFuylaRM-106" value="ให้ i บวก 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="3600" width="180" height="40" as="geometry" />
+          <mxGeometry x="1450" y="3880" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CFk_xsP78PV8OFuylaRM-107" value="&lt;div&gt;ขึ้นบรรทัดใหม่&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="3520" width="170" height="40" as="geometry" />
+          <mxGeometry x="1450" y="3800" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CFk_xsP78PV8OFuylaRM-108" value="กำหนดให้เก็บค่าในอาเรย์&lt;div&gt;Matrix1[ตำแหน่ง i ตำแหน่ง k] x Matrix2[ตำแหน่ง k ตำแหน่ง j]&lt;br&gt;&lt;div&gt;ไว้ในMatrix4[ตำแหน่ง i ตำแหน่ง j]&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="2840" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CFk_xsP78PV8OFuylaRM-109" value="k &amp;lt; cols1 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="2760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CFk_xsP78PV8OFuylaRM-110" value="กำหนดค่า k = 0" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="2680" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CFk_xsP78PV8OFuylaRM-113" value="ให้ k บวก 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="2960" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
