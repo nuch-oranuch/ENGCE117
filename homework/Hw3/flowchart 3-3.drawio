@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="VVBMkOrTxgWf7KlMhNJL">
-    <mxGraphModel>
+    <mxGraphModel dx="512" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CFk_xsP78PV8OFuylaRM-1" value="เริ่มต้น" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CFk_xsP78PV8OFuylaRM-2" value="สร้างตัวแปรประเภทตัวเลข รูปแบบอาเรย์ 2 มิติ ขนาด 5x5 ชื่อ Matrix1, Matrix2, Matrix3, Matrix4" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CFk_xsP78PV8OFuylaRM-3" value="สร้างตัวแปรประเภทตัวเลข ชื่อ rows1, cols1, rows2, cols2, rows3, cols3, rows4, cols4" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="130" y="200" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CFk_xsP78PV8OFuylaRM-4" value="สร้างตัวแปรประเภทตัวเลข ชื่อ i, j, k มาเพื่อใช้วนรอบ" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="130" y="280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CFk_xsP78PV8OFuylaRM-5" value="แสดงข้อความ &quot;Enter Matrix1 :&amp;nbsp;&quot;&lt;div&gt;และขึ้นบรรทัดใหม่&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CFk_xsP78PV8OFuylaRM-6" value="แสดงข้อความ&lt;div&gt;&quot;Enter number rows and columns :&amp;nbsp;&quot;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="280" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
