@@ -1,115 +1,183 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="eiIn-LXVRp4PdeH9p7JJ">
-    <mxGraphModel dx="2933" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SwMyANA-emPV66KAQKip-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-2" target="SwMyANA-emPV66KAQKip-4">
+        <mxCell id="SwMyANA-emPV66KAQKip-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SwMyANA-emPV66KAQKip-2" target="SwMyANA-emPV66KAQKip-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-2" value="เริ่มต้น" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="SwMyANA-emPV66KAQKip-2" value="เริ่มต้น" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="340" y="40" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-4" target="SwMyANA-emPV66KAQKip-6">
+        <mxCell id="SwMyANA-emPV66KAQKip-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SwMyANA-emPV66KAQKip-4" target="SwMyANA-emPV66KAQKip-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-4" value="สร้างตัวแปรประเภททศนิยม a = 3, b = 3&lt;div&gt;สร้างตัวแปรประเภทบูลีน _1 = เท็จ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="270" y="140" width="240" height="42" as="geometry" />
+        <mxCell id="SwMyANA-emPV66KAQKip-4" value="สร้างตัวแปรประเภททศนิยม a = 3, b = 3&lt;div&gt;สร้างตัวแปรประเภทบูลีน _1 = เท็จ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="270" y="133" width="240" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-6" target="SwMyANA-emPV66KAQKip-8">
+        <mxCell id="SwMyANA-emPV66KAQKip-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SwMyANA-emPV66KAQKip-6" target="SwMyANA-emPV66KAQKip-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-6" value="แสดงผล&lt;span style=&quot;background-color: initial;&quot;&gt;ตัวแปร _1&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="390" y="204" width="215" height="44" as="geometry" />
+        <mxCell id="SwMyANA-emPV66KAQKip-6" value="แสดงผล&lt;span style=&quot;background-color: initial;&quot;&gt;ตัวแปร _1&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="282.5" y="219" width="215" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-8" target="SwMyANA-emPV66KAQKip-11">
+        <mxCell id="SwMyANA-emPV66KAQKip-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SwMyANA-emPV66KAQKip-8" target="SwMyANA-emPV66KAQKip-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-8" value="สร้างตัวแปรประเภทตัวเลข i = 0 มาเพื่อวนรอบ" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="270" y="233" width="240" height="42" as="geometry" />
+        <mxCell id="SwMyANA-emPV66KAQKip-8" value="สร้างตัวแปรประเภทตัวเลข i = 0 มาเพื่อวนรอบ" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="270" y="306" width="240" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-11" target="SwMyANA-emPV66KAQKip-16">
+        <mxCell id="SwMyANA-emPV66KAQKip-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SwMyANA-emPV66KAQKip-11" target="SwMyANA-emPV66KAQKip-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-11" target="SwMyANA-emPV66KAQKip-38">
+        <mxCell id="OTArRopBpCJ90Re62fTz-11" value="ใช่" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SwMyANA-emPV66KAQKip-37">
+          <mxGeometry x="0.2537" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwMyANA-emPV66KAQKip-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SwMyANA-emPV66KAQKip-11" target="SwMyANA-emPV66KAQKip-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-11" value="ตัวแปร _1 เป็นจริง ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="305" y="326" width="170" height="80" as="geometry" />
+        <mxCell id="OTArRopBpCJ90Re62fTz-12" value="ไม่" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SwMyANA-emPV66KAQKip-40">
+          <mxGeometry x="-0.744" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-16" target="SwMyANA-emPV66KAQKip-42">
+        <mxCell id="SwMyANA-emPV66KAQKip-11" value="ตัวแปร _1 เป็นจริง ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="305" y="393" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SwMyANA-emPV66KAQKip-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SwMyANA-emPV66KAQKip-16" target="SwMyANA-emPV66KAQKip-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-16" value="แสดงข้อความ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;ok&quot;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="295" y="430" width="190" height="44" as="geometry" />
+        <mxCell id="SwMyANA-emPV66KAQKip-16" value="แสดงข้อความ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;ok&quot;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="295" y="506" width="190" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-19" target="SwMyANA-emPV66KAQKip-50">
+        <mxCell id="SwMyANA-emPV66KAQKip-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SwMyANA-emPV66KAQKip-19" target="SwMyANA-emPV66KAQKip-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-19" value="ตัวแปร i &amp;lt; 10 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="305" y="795" width="170" height="80" as="geometry" />
+        <mxCell id="OTArRopBpCJ90Re62fTz-17" value="ใช่" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SwMyANA-emPV66KAQKip-53">
+          <mxGeometry x="-0.4601" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-23" target="SwMyANA-emPV66KAQKip-25">
+        <mxCell id="SwMyANA-emPV66KAQKip-19" value="ตัวแปร i &amp;lt; 10 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="305" y="987" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SwMyANA-emPV66KAQKip-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OTArRopBpCJ90Re62fTz-5" target="SwMyANA-emPV66KAQKip-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
-          <mxGeometry x="375" y="1098" width="30" height="30" as="geometry" />
+        <mxCell id="SwMyANA-emPV66KAQKip-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" parent="1" vertex="1">
+          <mxGeometry x="375" y="1290" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-25" target="SwMyANA-emPV66KAQKip-28">
+        <mxCell id="SwMyANA-emPV66KAQKip-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SwMyANA-emPV66KAQKip-25" target="SwMyANA-emPV66KAQKip-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-25" value="แสดงข้อความ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;haha&quot;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="295" y="1187" width="190" height="44" as="geometry" />
+        <mxCell id="SwMyANA-emPV66KAQKip-25" value="แสดงข้อความ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;haha&quot;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="295" y="1410" width="190" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-28" value="สิ้นสุด" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1270" width="100" height="30" as="geometry" />
+        <mxCell id="SwMyANA-emPV66KAQKip-28" value="สิ้นสุด" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1486" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-38" target="SwMyANA-emPV66KAQKip-39">
+        <mxCell id="OTArRopBpCJ90Re62fTz-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-38" target="SwMyANA-emPV66KAQKip-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-38" target="SwMyANA-emPV66KAQKip-47">
+        <mxCell id="OTArRopBpCJ90Re62fTz-13" value="ใช่" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OTArRopBpCJ90Re62fTz-1">
+          <mxGeometry x="0.1506" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTArRopBpCJ90Re62fTz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-38" target="SwMyANA-emPV66KAQKip-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="421" />
-              <mxPoint x="850" y="665" />
+              <mxPoint x="850" y="528" />
+              <mxPoint x="850" y="835" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-38" value="i &amp;lt; หรือ = 5 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="570" y="381" width="170" height="80" as="geometry" />
+        <mxCell id="OTArRopBpCJ90Re62fTz-14" value="ไม่" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OTArRopBpCJ90Re62fTz-2">
+          <mxGeometry x="-0.9195" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-39" target="SwMyANA-emPV66KAQKip-42">
+        <mxCell id="SwMyANA-emPV66KAQKip-38" value="i &amp;lt; หรือ = 5 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="570" y="488" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SwMyANA-emPV66KAQKip-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SwMyANA-emPV66KAQKip-39" target="SwMyANA-emPV66KAQKip-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-39" value="แสดงข้อความ&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&amp;nbsp;not-okey-ผลตัวแปร i ที่บวก 1 แล้ว&quot;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="520" y="506" width="300" height="44" as="geometry" />
+        <mxCell id="SwMyANA-emPV66KAQKip-39" value="แสดงข้อความ&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&amp;nbsp;not-okey-ผลตัวแปร i ที่บวก 1 แล้ว&quot;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="505" y="600" width="300" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-42" target="SwMyANA-emPV66KAQKip-47">
+        <mxCell id="SwMyANA-emPV66KAQKip-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SwMyANA-emPV66KAQKip-42" target="SwMyANA-emPV66KAQKip-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="375" y="524" width="30" height="30" as="geometry" />
+        <mxCell id="SwMyANA-emPV66KAQKip-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="375" y="690" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-43" target="SwMyANA-emPV66KAQKip-19">
+        <mxCell id="SwMyANA-emPV66KAQKip-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SwMyANA-emPV66KAQKip-43" target="SwMyANA-emPV66KAQKip-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-43" value="ให้ i = 3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="702" width="120" height="42" as="geometry" />
+        <mxCell id="SwMyANA-emPV66KAQKip-43" value="ให้ i = 3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="330" y="900" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-47" target="SwMyANA-emPV66KAQKip-43">
+        <mxCell id="SwMyANA-emPV66KAQKip-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SwMyANA-emPV66KAQKip-47" target="SwMyANA-emPV66KAQKip-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="375" y="613" width="30" height="30" as="geometry" />
+        <mxCell id="SwMyANA-emPV66KAQKip-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="375" y="820" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-50" value="ตัวแปร i mod 2 = (!1 ? 1 : 2) ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="305" y="900" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-54" target="SwMyANA-emPV66KAQKip-23">
+        <mxCell id="OTArRopBpCJ90Re62fTz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-50" target="SwMyANA-emPV66KAQKip-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SwMyANA-emPV66KAQKip-54" value="แสดงข้อความ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;see see&quot;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="285" y="1004" width="190" height="44" as="geometry" />
+        <mxCell id="OTArRopBpCJ90Re62fTz-18" value="ใช่" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OTArRopBpCJ90Re62fTz-3">
+          <mxGeometry x="-0.2048" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SwMyANA-emPV66KAQKip-50" value="ตัวแปร i mod 2 = (!1 ? 1 : 2) ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="305" y="1100" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SwMyANA-emPV66KAQKip-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SwMyANA-emPV66KAQKip-54" target="SwMyANA-emPV66KAQKip-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SwMyANA-emPV66KAQKip-54" value="แสดงข้อความ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;see see&quot;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="295" y="1220" width="190" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="OTArRopBpCJ90Re62fTz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-23" target="OTArRopBpCJ90Re62fTz-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1320" as="sourcePoint" />
+            <mxPoint x="390" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTArRopBpCJ90Re62fTz-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OTArRopBpCJ90Re62fTz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-50" target="SwMyANA-emPV66KAQKip-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="1140" />
+              <mxPoint x="510" y="1305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTArRopBpCJ90Re62fTz-16" value="ไม่" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OTArRopBpCJ90Re62fTz-8">
+          <mxGeometry x="-0.8917" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTArRopBpCJ90Re62fTz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SwMyANA-emPV66KAQKip-19" target="OTArRopBpCJ90Re62fTz-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="1027" />
+              <mxPoint x="550" y="1365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTArRopBpCJ90Re62fTz-15" value="ไม่" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OTArRopBpCJ90Re62fTz-9">
+          <mxGeometry x="-0.8793" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
