@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="ZynZcwv4k0mCUNidkGsJ">
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NmU84zRDR6mgSTqXvbG-1" target="-NmU84zRDR6mgSTqXvbG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-1" value="เริ่มต้น" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NmU84zRDR6mgSTqXvbG-3" target="-NmU84zRDR6mgSTqXvbG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-3" value="สร้างตัวแปร fname และ lname&lt;div&gt;มารับค่าจากผู็ใช้งาน&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="153" width="240" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NmU84zRDR6mgSTqXvbG-5" target="-NmU84zRDR6mgSTqXvbG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-5" value="แสดงข้อความ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;First Name:&amp;nbsp;&quot;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="240" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NmU84zRDR6mgSTqXvbG-7" target="-NmU84zRDR6mgSTqXvbG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-7" value="รับค่า fname จากผู้ใช้งาน&amp;nbsp;&lt;div&gt;เพื่อเอามาแสดงชื่อจริงผู้ใช้งาน&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="255" y="345" width="270" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="-NmU84zRDR6mgSTqXvbG-10" target="-NmU84zRDR6mgSTqXvbG-11" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-10" value="แสดงข้อความ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;Last Name:&amp;nbsp;&quot;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="265" y="450" width="250" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NmU84zRDR6mgSTqXvbG-11" target="-NmU84zRDR6mgSTqXvbG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-11" value="รับค่า lname จากผู้ใช้งาน&amp;nbsp;&lt;div&gt;เพื่อเอามาแสดงชื่อจริงผู้ใช้งาน&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="250" y="545" width="280" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NmU84zRDR6mgSTqXvbG-13" target="-NmU84zRDR6mgSTqXvbG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-13" value="แสดงผลตัวแปร fname และ lname&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;พร้อมข้อความ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;s TC, RMUTL, Chiang Mai, Thailand&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="240" y="636" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-NmU84zRDR6mgSTqXvbG-14" value="สิ้นสุด" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="750" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

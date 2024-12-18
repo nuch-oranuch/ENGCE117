@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="cTtu97Ah45E_f_dAgXFt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cTtu97Ah45E_f_dAgXFt-0" target="cTtu97Ah45E_f_dAgXFt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtu97Ah45E_f_dAgXFt-0" value="เริ่มต้น" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="468" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtu97Ah45E_f_dAgXFt-1" value="สิ้นสุด" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="468" y="450" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtu97Ah45E_f_dAgXFt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cTtu97Ah45E_f_dAgXFt-2" target="cTtu97Ah45E_f_dAgXFt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtu97Ah45E_f_dAgXFt-2" value="แสดงข้อความ&lt;div&gt;&quot;This is my first time to coding with C language.&quot;&lt;/div&gt;&lt;div&gt;และขึ้นบรรทัดใหม่&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="373" y="250" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtu97Ah45E_f_dAgXFt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cTtu97Ah45E_f_dAgXFt-3" target="cTtu97Ah45E_f_dAgXFt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtu97Ah45E_f_dAgXFt-3" value="แสดงข้อความ&lt;div&gt;&quot;Hello, I&#39;m Javis (RMUTL-Version).&quot;&lt;/div&gt;&lt;div&gt;และขึ้นบรรทัดใหม่&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="368" y="150" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtu97Ah45E_f_dAgXFt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cTtu97Ah45E_f_dAgXFt-4" target="cTtu97Ah45E_f_dAgXFt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTtu97Ah45E_f_dAgXFt-4" value="แสดงข้อความ&lt;div&gt;&quot;Today is my birthday.&quot;&lt;/div&gt;&lt;div&gt;และขึ้นบรรทัดใหม่&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="378" y="350" width="280" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
