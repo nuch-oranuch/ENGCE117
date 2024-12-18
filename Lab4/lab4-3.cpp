@@ -43,10 +43,10 @@ void SaveNode( struct studentNode *child, char n[], int a, char s, float g ) {
 }//end function
 
 void GoNext1( struct studentNode *walk ) {
-    if (walk -> next)
+    if (walk -> next != NULL)
     {
         walk = walk -> next;
     }
-    printf( "In Function = %s\n", walk) ;
+    printf( "In Function = %s\n", walk->name) ;
     
 }//end function

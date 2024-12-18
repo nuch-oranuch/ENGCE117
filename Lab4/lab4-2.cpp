@@ -14,5 +14,5 @@ int main() {
 }//end function
 
 void go( int ***p, int **z ) {
-    *p = z;
+    *p = z ;
 }//end function

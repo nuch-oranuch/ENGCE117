@@ -39,12 +39,12 @@ void saveNode(struct studentNode *child, char n[], int a, float g) {
 }
 
 void GoNext(struct studentNode **now) {
-    if ((*now) -> next)
+    if ((*now) -> next != NULL)
     {
-        printf( "In Function = %s\n", (*now) -> next) ;
+        printf( "In Function = %s\n", (*now) -> name) ;
         *now = (*now) -> next;
     }
-    else if ((*now) -> next == NULL){
+    else{
         printf( "End of list\n") ;
     }
 }
